@@ -1,10 +1,10 @@
-# Análisis de clasificación de las tasas de suicidio
+# Tasas de suicidio a nivel mundial - Análisis y clasificación 
 ## Material para el taller de analis de datos
 
 
 En este trabajo se procedera a la clasificación y predicción de los grupos con alto riesgo de suicidio.
 Por lo tanto, este análisis tiene como objetivo investigar si varias características como la edad, el sexo, la población, etc. 
-Tienen poder de clasificación para identificar grupos de alto riesgo, esto es importante para poder prevenir suicidios y crear planes de contingencia 
+Tienen poder de clasificación para identificar grupos de alto riesgo, esto es importante para poder prevenir suicidios y poder crear planes de contingencia 
 conociendo a que grupos intervenir más.
 
 Este es un análisis didáctico llevado a cabo en el taller de *Análisis de datos de la USFQ*, por Cristhian Ortiz 
